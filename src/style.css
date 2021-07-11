@@ -1,0 +1,85 @@
+body {
+  margin: 50px;
+}
+
+.container {
+  font-family: "Raleway", sans-serif;
+  color: rgb(82, 77, 77);
+  margin: 50px;
+}
+
+.borderBox {
+  border: 1px solid;
+  padding: 25px;
+  border-color: rgba(128, 128, 128, 0.493);
+  border-radius: 20px;
+  background: linear-gradient(
+    110.5deg,
+    rgba(248, 196, 249, 0.66) 22.8%,
+    rgba(253, 122, 4, 0.15) 64.6%
+  );
+}
+
+.header h1 {
+  font-size: 50px;
+  display: inline;
+  font-weight: bolder;
+  padding: 50px 10px 0px 5px;
+}
+
+.header h2 {
+  display: inline;
+  font-size: 20px;
+  padding: 18px 54px 0px 18px;
+}
+
+.header h5 {
+  font-size: 15px;
+  font-style: italic;
+  color: rgba(128, 128, 128, 0.877);
+  display: inline;
+}
+
+.cardLeft p {
+  padding: 15px 0px 0px 20px;
+}
+
+.cardLeft h2 {
+  font-weight: bold;
+  font-size: 40px;
+  padding: 15px 0px 0px 20px;
+}
+
+.weatherIcon {
+  font-size: 90px;
+  padding: 10px 0px 10px 30px;
+}
+
+.cardMiddle h5 {
+  font-size: 94px;
+  padding: 164px 0px 0px 0px;
+}
+
+.cardRight {
+  padding: 133px 0px 0px 20px;
+}
+
+.col-1 {
+  padding: 70px 0px 0px 50px;
+}
+
+.forecastDays p {
+  font-size: 20px;
+  text-align: center;
+  margin: 25px 0px 0px 0px;
+}
+
+.forecastDays h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.weatherIcon1 {
+  font-size: 65px;
+  width: 100%;
+}
