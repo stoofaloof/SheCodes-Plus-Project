@@ -83,3 +83,12 @@ body {
   font-size: 65px;
   width: 100%;
 }
+
+#footer-name {
+  display: inline;
+  font-size: 15px;
+}
+
+#footer-link {
+  font-size: 15px;
+}
